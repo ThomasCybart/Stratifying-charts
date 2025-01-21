@@ -8,9 +8,11 @@ Made for a project relative to my college, looking for extract and analyse data 
 ## Features
 
 - DTS
+  
 Oriented to the employees of a public hospital that worked under COVID-19 context, they respond a few questions of basic information and a self-supplied scale that can determinate the state of trauma of each one, it's called the Davidson Trauma Scale included in the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition).
 
 - T-A
+  
 This data collection was taken on a park on the city center for the world hypertension day and the target was to determine certain characteristics of the type of hypertension that the respondent has and the prescription that they have.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
