@@ -3,7 +3,7 @@
 
 # Stratifying-charts
 
-Made for a project relative to my college, looking for extract and analise data from all the respondents that colaborated in the process, it includes two different projects that were presented with the target of respond unknowns about an especific group of the surveyees health state in differrent context of each one, all of the respondents agreed with the exposure of the data via the survey that they completed.
+Made for a project relative to my college, looking for extract and analyse data from all the respondents that colaborated in the process, it includes two different projects that were presented with the target of respond unknowns about an especific group of the surveyees health state in differrent context of each one, all of the respondents agreed with the exposure of the data via the survey that they completed.
 
 ## Features
 
